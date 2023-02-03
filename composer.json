@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mpdf/mpdf": "^8.0",
+        "messagebird/php-rest-api": "^2.1"
+    }
+}
